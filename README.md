@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here to view my solution URL](https://your-solution-url.com)
-- Live Site URL: [Click here to view my live site URL](results-summary.pages.dev)
+- Solution URL: [Click here to view my solution URL](https://www.frontendmentor.io/solutions/results-summary-design-boMTqX-jlG)
+- Live Site URL: [Click here to view my live site URL](https://results-summary.pages.dev/)
 
 ## My process
 
