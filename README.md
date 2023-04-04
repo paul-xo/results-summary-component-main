@@ -4,9 +4,9 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ## Table of contents
 
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+- [The challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here to view my solution URL](https://your-solution-url.com)
+- Live Site URL: [Click here to view my live site URL](results-summary.pages.dev)
 
 ## My process
 
